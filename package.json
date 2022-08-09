@@ -1,12 +1,12 @@
 {
   "dependencies": {
+    "lodash": "^4.17.21",
     "react": "^18.2.0"
   },
   "name": "online_web_course",
   "description": "",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
